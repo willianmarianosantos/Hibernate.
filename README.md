@@ -7,3 +7,5 @@
 1.6 Front implementado
 
 1.7 Navbar com pagina propria chamado por JSP "codigo mais limpo e curto" 
+
+1.8 Dentro de livros o mostrar, atualizar, deletar e editar está funcionando perfeitamente 
